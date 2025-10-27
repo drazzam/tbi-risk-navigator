@@ -4,7 +4,7 @@
 
 A sophisticated React web application for predicting clinically important traumatic brain injury (ciTBI) risk using validated prediction models and clinical decision rules.
 
-[![Deploy Status](https://github.com/drazzam/tbi-risk-navigator/actions/workflows/deploy.yml/badge.svg)](https://github.com/YOUR-USERNAME/tbi-risk-navigator/actions/workflows/deploy.yml)
+[![Deploy Status](https://github.com/drazzam/tbi-risk-navigator/actions/workflows/deploy.yml/badge.svg)](https://github.com/drazzam/tbi-risk-navigator/actions/workflows/deploy.yml)
 
 ## 🎯 Features
 
