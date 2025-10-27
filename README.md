@@ -51,7 +51,7 @@ This tool is based on:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/tbi-risk-navigator.git
+   git clone https://github.com/drazzam/tbi-risk-navigator.git
    cd tbi-risk-navigator
    ```
 
